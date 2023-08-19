@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🙂 sobre me:
 📖 No momento estou cursando ADS 1/5<br>🌐 Pretendo me tornar um programador com foco em back-end<br>👨🏾‍💻 Linguagem do momento /Python/
 
 
