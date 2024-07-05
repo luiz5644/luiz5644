@@ -3,6 +3,7 @@
 
 # 💻 Linguagens:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java]
 
 # 📊 Estatísticas do GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=luiz5644&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
