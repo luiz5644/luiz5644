@@ -2,7 +2,7 @@
 📖 No momento estou cursando ADS 3/5<br>🌐 Pretendo me tornar um programador com foco em back-end<br>👨🏾‍💻 Linguagem do momento /Java/
 
 # 💻 Linguagens:
-🐍 - Python
+🐍 - Python <br/>
 ☕ - Java
 
 # 📊 Estatísticas do GitHub:
