@@ -1,45 +1,151 @@
-<div style="text-align: center;" align="center">
-  
- <h2>olá eu sou o Luiz Carlos, bem-vindo ao meu perfil</h2>
+<div align="center">
 
-No momento estou cursando análise e desenvolvimento de sistemas - 3/5, no IFCE - Campus Tabuleiro do Norte, pretendo me tornar um programador com foco em back-end :)
-  
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+# 👋 Olá, eu sou o Luiz Carlos!
 
-  
-  
+### 💻 Estudante de Análise e Desenvolvimento de Sistemas
+
+🎓 IFCE - Campus Tabuleiro do Norte
+
+🚀 Aspirante a Desenvolvedor Back-end
+
+Sempre buscando aprender novas tecnologias e desenvolver soluções eficientes através da programação.
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=luiz5644&color=blue&style=for-the-badge)
+
+[![GitHub followers](https://img.shields.io/github/followers/luiz5644?style=for-the-badge)](https://github.com/luiz5644?tab=followers)
+
+[![GitHub Stars](https://img.shields.io/github/stars/luiz5644?style=for-the-badge)](https://github.com/luiz5644)
+
 </div>
-  
-  ##
 
-  <div style="text-align: center;" align="center">
-  <h2> GitHub Stats </h2>
-  <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=luiz5644&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
+---
 
-  <a href="https://github.com/luiz5644/github-readme-stats">
-<!--     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=luiz5644&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages"> -->
-    
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=luiz5644&locale=en&hide_title=false&title_color=FF00F6&layout=compact&card_width=320&langs_count=5&bg_color=000&text_color=8B8B8B&hide_border=false&border_color=561760" height="140" alt="languages graph"  />
-  </a>
-  
-  ##
-  
+# 🚀 Sobre mim
+
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas
+- 💻 Focado em Desenvolvimento Back-end
+- 📚 Sempre aprendendo novas tecnologias
+- ⚡ Gosto de criar APIs, sistemas e automações
+- 🎯 Objetivo: me tornar Desenvolvedor Back-end
+
+---
+
+# 🛠 Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,kotlin,nodejs,express,mysql,postgres,git,github,vscode&theme=dark" />
+
+</div>
+
+---
+
+# 📖 Atualmente estudando
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,docker,java,kotlin" />
+
+</div>
+
+---
+
+# 📊 Estatísticas
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=luiz5644&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz5644&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Sequência de commits
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=luiz5644&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 Troféus
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=luiz5644&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 📈 Gráfico de atividade
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=luiz5644&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Minhas contribuições
+
+<div align="center">
+
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/luiz5644/luiz5644/output/github-contribution-grid-snake-dark.svg">
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/luiz5644/luiz5644/output/github-contribution-grid-snake.svg">
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/luiz5644/luiz5644/output/github-contribution-grid-snake-dark.svg">
 
-  <img
-    alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/luiz5644/luiz5644/output/github-contribution-grid-snake.svg">
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/luiz5644/luiz5644/output/github-contribution-grid-snake.svg">
+
+<img alt="Snake animation"
+src="https://raw.githubusercontent.com/luiz5644/luiz5644/output/github-contribution-grid-snake.svg">
+
 </picture>
+
+</div>
+
+---
+
+# 🚀 Projetos em destaque
+
+| Projeto | Descrição |
+|---------|-----------|
+| 🎬 CineReview | Plataforma de avaliações de filmes |
+| 🌐 Site IFCE | Projeto Web desenvolvido durante a graduação |
+| 📱 MyReviewManager | Aplicativo Android em Kotlin |
+| ⚙️ APIs REST | Desenvolvimento de APIs utilizando Node.js |
+
+---
+
+# 📫 Contato
+
+<div align="center">
+
+<!-- <a href="SEU_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:SEU_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a> -->
+
+</div>
+
+---
+
+<div align="center">
+
+## Obrigado pela visita! 👨‍💻
+
+"Transformando ideias em código."
+
+</div>
