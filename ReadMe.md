@@ -1,151 +1,70 @@
 <div align="center">
 
-# 👋 Olá, eu sou o Luiz Carlos!
+# Olá! Eu sou Luiz Carlos 👋
 
-### 💻 Estudante de Análise e Desenvolvimento de Sistemas
+### Estudante de Análise e Desenvolvimento de Sistemas · Desenvolvedor back-end em formação
 
-🎓 IFCE - Campus Tabuleiro do Norte
+No IFCE — Campus Tabuleiro do Norte, transformo aprendizado em projetos práticos. Tenho interesse especial em APIs, automações e aplicações web.
 
-🚀 Aspirante a Desenvolvedor Back-end
-
-Sempre buscando aprender novas tecnologias e desenvolver soluções eficientes através da programação.
-
-<br>
-
-![](https://komarev.com/ghpvc/?username=luiz5644&color=blue&style=for-the-badge)
-
-[![GitHub followers](https://img.shields.io/github/followers/luiz5644?style=for-the-badge)](https://github.com/luiz5644?tab=followers)
-
-[![GitHub Stars](https://img.shields.io/github/stars/luiz5644?style=for-the-badge)](https://github.com/luiz5644)
+[![Visualizações do perfil](https://komarev.com/ghpvc/?username=luiz5644&color=0e75b6&style=for-the-badge&label=VISUALIZAÇÕES)](https://github.com/luiz5644)
+[![Seguidores](https://img.shields.io/github/followers/luiz5644?style=for-the-badge&label=SEGUIDORES&color=0e75b6)](https://github.com/luiz5644?tab=followers)
 
 </div>
 
----
+## Sobre mim
 
-# 🚀 Sobre mim
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** no IFCE
+- 💻 Em formação para atuar com **desenvolvimento back-end**
+- ⚙️ Criando APIs, sistemas e automações para consolidar conhecimentos
+- 📚 Estudando continuamente boas práticas, banco de dados e arquitetura de aplicações
+- 🎯 Em busca da primeira oportunidade para aprender e contribuir em equipe
 
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas
-- 💻 Focado em Desenvolvimento Back-end
-- 📚 Sempre aprendendo novas tecnologias
-- ⚡ Gosto de criar APIs, sistemas e automações
-- 🎯 Objetivo: me tornar Desenvolvedor Back-end
-
----
-
-# 🛠 Tecnologias
+## Tecnologias
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,kotlin,nodejs,express,mysql,postgres,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,kotlin,nodejs,express,mysql,postgres,git,github,vscode&theme=dark" alt="HTML, CSS, JavaScript, Python, Java, Kotlin, Node.js, Express, MySQL, PostgreSQL, Git, GitHub e VS Code" />
 
 </div>
 
----
-
-# 📖 Atualmente estudando
+## Estudando agora
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,docker,java,kotlin" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,docker,java,kotlin&theme=dark" alt="Node.js, Express, PostgreSQL, MongoDB, Docker, Java e Kotlin" />
 
 </div>
 
----
-
-# 📊 Estatísticas
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=luiz5644&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz5644&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 Sequência de commits
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=luiz5644&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 Troféus
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=luiz5644&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
-# 📈 Gráfico de atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=luiz5644&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Minhas contribuições
-
-<div align="center">
-
-<picture>
-
-<source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/luiz5644/luiz5644/output/github-contribution-grid-snake-dark.svg">
-
-<source media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/luiz5644/luiz5644/output/github-contribution-grid-snake.svg">
-
-<img alt="Snake animation"
-src="https://raw.githubusercontent.com/luiz5644/luiz5644/output/github-contribution-grid-snake.svg">
-
-</picture>
-
-</div>
-
----
-
-# 🚀 Projetos em destaque
+## Projetos em destaque
 
 | Projeto | Descrição |
-|---------|-----------|
-| 🎬 CineReview | Plataforma de avaliações de filmes |
-| 🌐 Site IFCE | Projeto Web desenvolvido durante a graduação |
-| 📱 MyReviewManager | Aplicativo Android em Kotlin |
-| ⚙️ APIs REST | Desenvolvimento de APIs utilizando Node.js |
+| --- | --- |
+| [Associação Comunitária Melhor Idade](https://github.com/luiz5644/associacao_melhor_idade) | Aplicação web acessível para uma associação comunitária, construída com React e Vite. |
+| [Portal do Curso ADS](https://github.com/luiz5644/sitePortalDoCursoADS) | Portal acadêmico desenvolvido na disciplina de Gestão de Projetos para aproximar estudantes e instituição. |
+| [Projeto Web CineReview](https://github.com/luiz5644/Projeto_web_CineReview) | Projeto web voltado à avaliação de filmes. |
+| [ReviewFlix](https://github.com/luiz5644/ReviewFlix) | Repositório de um projeto de avaliações de filmes. |
 
----
-
-# 📫 Contato
+## Estatísticas
 
 <div align="center">
 
-<!-- <a href="SEU_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=luiz5644&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub de Luiz Carlos" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz5644&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas por Luiz Carlos" />
 
-<a href="mailto:SEU_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a> -->
+<br />
+
+<img src="https://streak-stats.demolab.com?user=luiz5644&theme=tokyonight&hide_border=true" alt="Sequência de contribuições no GitHub" />
 
 </div>
 
----
+## Vamos nos conectar
+
+- GitHub: [@luiz5644](https://github.com/luiz5644)
 
 <div align="center">
 
-## Obrigado pela visita! 👨‍💻
+> “Transformando ideias em código.”
 
-"Transformando ideias em código."
+Obrigado pela visita! 👨‍💻
 
 </div>
